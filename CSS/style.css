@@ -17,7 +17,7 @@ html, body{
 }
 
 .font-size-3{
-     font-size: 81px;
+     font-size: 80px;
      line-height: 84px;
 }
 
@@ -68,7 +68,7 @@ html, body{
 /*riga 1*/
 
 .header{
-    padding: 2vw;
+    padding: 3vw;
 }
 
 
@@ -263,4 +263,3 @@ a.nav-link.selected{
         line-height: 30px;
     }
 }
-

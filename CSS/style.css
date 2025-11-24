@@ -190,9 +190,9 @@ a.nav-link.selected{
 
 .titolo{
   position: absolute;
-  top: 25%;
-  right: 0;
-  width: 35%;
+  top: 40%;
+  left: 75%;
+  transform: translate(-50%, -50%);
 }
 
 .portfolio{
@@ -206,7 +206,6 @@ a.nav-link.selected{
     margin-bottom: 4vw;
     padding-top: 3vw;
     padding-bottom: 3vw;
-    padding-left: 3vw;
 }
 
 .box-testo{
